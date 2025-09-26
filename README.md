@@ -64,8 +64,7 @@ Filters for product, month, and channel.
 | month_num         | Numeric representation of the month                     | 1             |
 
 📁 Repository Structure
-Sales-Insights-Dashboard/
-│
+Sales-Insights-Dashboard  
 ├── notebooks/        # Python scripts / Jupyter notebooks  
 ├── dashboard/        # Power BI .pbix file  
 ├── README.md         # Project documentation  
